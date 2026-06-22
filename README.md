@@ -1,5 +1,5 @@
 # AVRIL JEAH B. ESTIMADA
-## Future Registered Psychologist
+Future Registered Psychologist
 "Both faith and fear demand you to believe in something you don't see. You choose."
 
 ## Professional Bio
