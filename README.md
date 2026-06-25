@@ -37,7 +37,19 @@ The infographic was developed to present project research and data in a concise,
 ### Self Introduction Video
 [View Prototype Here] https://canva.link/ue3t89a3dtxrwdk
 
+### AI Explorer
+
+## Prompt Engineering
+https://github.com/aestimada-lab/Prompt-Engineering
+
+## AI Study Tools & Platforms (Content Critique)
+https://github.com/aestimada-lab/AI-Study-Tools-Platforms-Content-Critique-
+
+## AI for Research & Data Analysis (Visual Reports)
+https://github.com/aestimada-lab/AI-for-Research-Data-Analysis-Visual-Reports-
+
 ## Contact
 
 Email: aestimada@addu.edu.ph
+
 Mobile No.: 09182274757
